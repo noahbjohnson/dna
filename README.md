@@ -1,7 +1,7 @@
 # My Genotype 🧬
 
 ## SNP Source
-This is my genome as sequenced by ancestry.com for their ancestryDNA service.
+This is my genome as sequenced by ancestry.com for their ancestryDNA service. Feel free to git *clone* and do some analysis. If we're related or I'm going to get some obscure genetic disease, please let me know in a pull request.
 
 ## License
 You can pretty much do whatever but please don't sell my genome 🙃
